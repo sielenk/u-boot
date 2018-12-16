@@ -191,7 +191,7 @@ err:
 	printf( "\n****************************\n" \
 		"\n***      Warning!!!      ***\n" \
 		"\n****************************\n" \
-		"\This is not an Android Partition device!" \
+		"This is not an Android Partition device!" \
 		"\nIf you want Android partitioning," \
 		"use fdisk command befor fastboot command.\n\n");
 	return	-1;
